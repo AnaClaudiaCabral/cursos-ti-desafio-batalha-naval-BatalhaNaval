@@ -124,7 +124,7 @@ int main() {
     // 3. Exiba o Tabuleiro: Mostra a matriz no console.
     exibirTabuleiro(tabuleiro);
     }
- 
+ printf("novo commit\n");
 
     return 0;
     }
