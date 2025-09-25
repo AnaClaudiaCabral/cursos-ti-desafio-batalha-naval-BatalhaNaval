@@ -165,6 +165,8 @@ int main(){
 
     // 3. Exiba o Tabuleiro
     exibirTabuleiro(tabuleiro);
+
+    printf("Novo Commit\n");
     
     return 0;
 }
